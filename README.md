@@ -2,7 +2,9 @@
 This repository contains a code for implementing the algorithms developed in the paper: 
 
 [ S. Patil, S. Banerjee, P. K. Panigrahi, Measurement-based quantum clustering algorithms, arXiv preprint
-arXiv:2302.00566 (2023).](https://arxiv.org/abs/2302.00566). The code is written in Python 3.8.10 The code is tested on Ubuntu 18.04.5 LTS.
+arXiv:2302.00566 (2023).](https://arxiv.org/abs/2302.00566)
+
+The code is written in Python 3.8.10 The code is tested on Ubuntu 18.04.5 LTS.
  
 
 
