@@ -13,16 +13,25 @@ Clone the repo:
 ```
  git clone https://github.com/Next-di-mension/measurement-based-quantum-clustering.git
 ```
+# Install the dependencies:
+```
+pip install -r requirements.txt
+```
 # Repository structure
 ```
 .
 ├── data
 │   ├── ch130.tsp.gz
+├── Images
+├── Implementation
+│   ├── breast_cancer_unsharp.ipynb
+│   ├── concentric_circle_classical.ipynb
+│   ├── QHCA_churritz_data.ipynb
+│   ├── QHCA_con_circle.ipynb
 ├── LICENSE
-├── breast_cancer_clustering.ipynb
-├── breast_cancer_unsharp.ipynb
-├── churrtiz_clustering.ipynb
-├── concentric_circle_clustering.ipynb
+├── QHCA.py
+├── Unsharp.py
+├── requirements.txt
 ├── README.md
 
 ```
