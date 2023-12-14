@@ -8,16 +8,16 @@ The code is written in Python 3.8.10 The code is tested on Ubuntu 18.04.5 LTS.
  
 
 
-## Cloning and handling dependencies 
+# Cloning and handling dependencies 
 Clone the repo:
 ```
  git clone https://github.com/Next-di-mension/measurement-based-quantum-clustering.git
 ```
-# Install the dependencies:
+### Install the dependencies:
 ```
 pip install -r requirements.txt
 ```
-# Repository structure
+### Repository structure
 ```
 .
 ├── data
