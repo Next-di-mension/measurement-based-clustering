@@ -1,4 +1,7 @@
-# Measurement based quantum clustering algorithms 
+# Measurement based quantum clustering algorithms  [![arXiv](https://img.shields.io/badge/arXiv-2007.10893-b31b1b.svg)](https://arxiv.org/abs/2302.00566)
+
+
+
 This repository contains a code for implementing the algorithms developed in the paper: 
 
 S. Patil, S. Banerjee, P. K. Panigrahi [Measurement-based quantum clustering algorithms,](https://arxiv.org/abs/2302.00566) arXiv preprint arXiv:2302.00566 (2023).
